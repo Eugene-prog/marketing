@@ -283,3 +283,25 @@ select {
 .expertise__item-text {
 	color: #777;
 }
+
+.magic {
+	background-color: #f6f8fa;
+	background-image: url("../images/magic-bg.jpg");
+	background-repeat: no-repeat;
+	background-size: 50%;
+	background-position: left 82%;
+}
+
+.magic__inner {
+	max-width: 470px;
+	margin-left: auto;
+	padding: 100px 0 190px;
+}
+
+.margin__title {
+	margin-bottom: 67px;
+}
+
+.magic__text p {
+	margin-bottom: 25px;
+}
